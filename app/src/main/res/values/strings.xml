@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProyectoPrimeraEvaluacion</string>
+    <string name="Menu">Menu</string>
+    <string name="menu_principal">Menu principal</string>
+    <string name="galeria">Galeria</string>
+    <string name="llamada_para_reserva">LLamada para reserva</string>
+    <string name="reserva_online">Reserva online</string>
+    <string name="pantalla_de_inicio">Pantalla de inicio</string>
+    <string name="sobre_nosotros">Sobre nosotros</string>
+    <string name="bienvenido_a_la_aplicacion">Bienvenido a la aplicacion!</string>
+    <string name="terraza">Terraza</string>
+    <string name="jardin">Jardin</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="enviar">enviar</string>
+    <string name="cafeteria">Cafeteria</string>
+    <string name="servicios">Servicios</string>
+    <string name="reserva">Reserva</string>
+    <string name="nombre">Nombre</string>
+    <string name="libre">libre</string>
+    <string name="a_eleccion_del_chef">a eleccion del chef</string>
+    <string name="reserva_telefonica">Reserva Telefonica</string>
+    <string name="explora">explora</string>
+</resources>
